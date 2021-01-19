@@ -68,7 +68,7 @@ body {
 
 #front {
     position: absolute;
-    bottom: 1em;
+    bottom: 5em;
     /* top: 100%; */
     /* margin-top: 25em; */
     z-index: -2;
