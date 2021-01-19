@@ -68,7 +68,7 @@ body {
 
 #front {
     position: absolute;
-    bottom: 2em;
+    /* bottom: 2em; */
     /* top: 100%; */
     /* margin-top: 25em; */
     z-index: -2;
@@ -272,7 +272,12 @@ body {
     margin-top: 5em;
 }
 
-
+/* #tropy {
+    background-color: transparent;
+    position: relative;
+    z-index: 10;
+    float: right;
+} */
 
 
 
