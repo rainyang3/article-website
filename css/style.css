@@ -68,7 +68,7 @@ body {
 
 #front {
     position: absolute;
-    bottom: 10em;
+    bottom: 5em;
     /* top: 100%; */
     /* margin-top: 25em; */
     z-index: -2;
@@ -166,7 +166,7 @@ body {
     margin-left: 15em;
     padding: 2px;
     line-height: 1.3em;
-    text-shadow: 1px 1px 5px white;
+    text-shadow: 5px 5px 10px white;
     text-align: left;
     float: left;
     /* display: inline; */
@@ -208,7 +208,7 @@ body {
     margin-top: 10em; */
     padding: 2px;
     line-height: 1.3em;
-    text-shadow: 2px 2px 5px white;
+    text-shadow: 5px 5px 10px white;
     text-align: left;
     margin-right: 5em;
     float: right;
@@ -235,7 +235,7 @@ body {
     margin-left: 10em;
     padding: 2px;
     line-height: 1.3em;
-    text-shadow: 1px 1px 5px white;
+    text-shadow: 5px 5px 10px white;
     text-align: left;
     float: left;
     /* display: inline; */
@@ -265,7 +265,7 @@ body {
     margin-top: 10em; */
     padding: 2px;
     line-height: 1.3em;
-    text-shadow: 2px 2px 5px whites;
+    text-shadow: 5px 5px 10px white;
     text-align: left;
     margin-right: 15em;
     float: right;
