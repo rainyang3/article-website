@@ -163,7 +163,7 @@ body {
     font-style: normal;
     /* margin: auto 50% auto 10%; */
     width: 40vw;
-    margin-left: 10%;
+    margin-left: 15em;
     padding: 2px;
     line-height: 1.3em;
     text-shadow: 1px 1px 5px white;
@@ -179,7 +179,7 @@ body {
 #jerseymj {
     float: right;
     margin-top: 0;
-    margin-right: 0;
+    margin-right: 7em;
     /* margin: 10%; */
     height: auto;
     /* box-shadow: whitesmoke 5px 5px 5px; */
@@ -232,7 +232,7 @@ body {
     /* margin: auto 50% auto 10%; */
     width: 40vw;
     margin-top: 10em;
-    margin-left: 5em;
+    margin-left: 10em;
     padding: 2px;
     line-height: 1.3em;
     text-shadow: 1px 1px 5px white;
@@ -244,13 +244,13 @@ body {
 #dunk {
     margin-left: 15em;
     margin-top: 12em;
-    box-shadow: whitesmoke 3px 3px 10px;
+    box-shadow: black 3px 3px 10px;
     border-radius: 30px;
 }
 #mjpippen {
     margin-left: 15em;
     margin-top: 4em;
-    box-shadow: whitesmoke 3px 3px 10px;
+    box-shadow: black 3px 3px 10px;
     border-radius: 30px;
 }
 
@@ -265,9 +265,9 @@ body {
     margin-top: 10em; */
     padding: 2px;
     line-height: 1.3em;
-    text-shadow: 2px 2px 5px white;
+    text-shadow: 2px 2px 5px whites;
     text-align: left;
-    margin-right: 5em;
+    margin-right: 15em;
     float: right;
     margin-top: 5em;
 }
